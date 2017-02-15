@@ -1,0 +1,15 @@
+{
+  "name": "task_manager_server",
+  "version": "0.0.1",
+  "description": "A server for a simple notes app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "3.3.4"
+  },
+  "repository": "abhi1992/TaskManagerServer",
+  "author": "Abhishek Banerjee",
+  "license": "MIT"
+}
